@@ -36,5 +36,5 @@ Você pode visualizar a página diretamente no seu navegador, abrindo o arquivo 
 
 Escreva algumas palavras sobre você, o criador do projeto.
 
-  * ** Roseane da Silva ** - (Seu perfil no GitHub ou um link para o seu portfólio)
+  * ** Roseane da Silva ** -(https://github.com/rosysilvaa/iniciante)
 
